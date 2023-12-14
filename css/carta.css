@@ -1,0 +1,59 @@
+.menu{
+    display: flex;
+    font-size: 18px;
+    color: #000;
+    text-decoration: none;
+    margin: 0 1em;
+    padding: 0.5em 1em;
+}
+
+.menu ul{
+    margin-left: 46px;
+    margin-right: 46px;
+    padding-right: 20px;
+    padding-left: 20px;
+    cursor: pointer;
+}
+
+
+.todo-img{
+    display: none;
+}
+
+.activetodo-img{
+    display: inline;
+}
+
+.carne-img {
+    display: none;
+}
+
+.activecarne-img {
+    display: inline;
+}
+
+.pollo-img{
+    display: none;
+}
+
+.activepollo-img{
+    display: inline;
+}
+
+.pescados-img{
+    display: none;
+}
+
+.activepescados-img{
+    display: inline;
+}
+
+.bebidas-img{
+    display: none;
+}
+
+.activebebidas-img{
+    display: inline;
+}
+
+
